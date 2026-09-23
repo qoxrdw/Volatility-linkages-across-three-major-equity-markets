@@ -1,10 +1,3 @@
-"""
-- Открывает лист "4. nominal spot curve" 
-- Строка 4 содержит сроки погашения в годах
-- Столбец A (начиная со строки 6) содержит даты
-- Извлекается колонка, где maturity == MATURITY (по умолчанию 10)
-"""
-
 import datetime
 import openpyxl
 import csv
