@@ -1,3 +1,4 @@
+### Volatility linkages across three major equity markets
 ### Ориентирование по репозиторию (в каком порядке что смотреть):
 1. Ноутбук с подготовкой скачанных данных: data_preparation
 2. Ноутбук с анализом данных: main_analysis
